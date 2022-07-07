@@ -1,0 +1,15 @@
+html, body {
+  margin-top: 10px;
+  margin-left: 50px;
+  padding: 20;
+  display: block;
+  font-family: Sans-Serif;
+  font-size: 10pt;
+
+  /* This centers our sketch horizontally. */
+  justify-content: center;
+
+  /* This centers our sketch vertically. */
+  align-items: center;
+}
+
